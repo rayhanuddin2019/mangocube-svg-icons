@@ -1,8 +1,9 @@
 {
   "name": "mangocube-svg-icons",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "author": "Rayhan Uddin",
+  "main": "index.js",
   "license": "ISC",
   "description": "*Psst — Svelte svg icon library for Settings panel\r ---",
   "repository": {
