@@ -1,12 +1,13 @@
 <script>
-	
+	import Screen_device from './Components/add.svelte';
 	export let name;
+	let fill = 'red';
 </script>
 
 
 <main>
 	<h1>Hello {name}! sbs   asdasd</h1>
-	
+	<Screen_device fill={fill} />
 </main>
 
 <style>
