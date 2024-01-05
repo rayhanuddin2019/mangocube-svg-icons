@@ -1,7 +1,8 @@
 repo_name: rayhanuddin2019/mangocube-svg-icons
 report_id: caa5dc29223a3ad80f88b242abca3a28
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T14:44:33+00:00'
+timestamp: '2024-01-05T08:53:28+00:00'
 requested_by: rayhanuddin2019
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/rayhanuddin2019/mangocube-svg-icons
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/rayhanuddin2019/mangocube-svg-icons
   detection_source: Repo Metadata
 - name: Svelte
   description: A UI framework that compiles into tiny standalone JavaScript modules
@@ -35,6 +38,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/6113/7exmJEg4_400x400.png
+  detection_source_url: https://github.com/rayhanuddin2019/mangocube-svg-icons/blob/master/package.json
   detection_source: package.json
   last_updated_by: rayhanuddin2019
   last_updated_on: 2021-06-20 17:51:51.000000000 Z
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rayhanuddin2019/mangocube-svg-icons
   detection_source: Repo Metadata
 - name: LiveReload
   description: CSS edits and image changes apply live. CoffeeScript, SASS, LESS and
@@ -56,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Live Reloading
   image_url: https://img.stackshare.io/service/2601/128.png
+  detection_source_url: https://github.com/rayhanuddin2019/mangocube-svg-icons/blob/master/package.json
   detection_source: package.json
   last_updated_by: rayhanuddin2019
   last_updated_on: 2021-06-19 18:15:30.000000000 Z
@@ -67,6 +73,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/rayhanuddin2019/mangocube-svg-icons/blob/master/package.json
   detection_source: package.json
   last_updated_by: Rayhan
   last_updated_on: 2021-06-19 16:55:29.000000000 Z
@@ -78,6 +85,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/rayhanuddin2019/mangocube-svg-icons/blob/master/package.json
   detection_source: package.json
   last_updated_by: rayhanuddin2019
   last_updated_on: 2021-06-19 18:15:30.000000000 Z
@@ -91,7 +99,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/rayhanuddin2019/mangocube-svg-icons/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: rayhanuddin2019
   last_updated_on: 2021-06-19 18:15:30.000000000 Z
@@ -105,7 +113,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17919/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/rayhanuddin2019/mangocube-svg-icons/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: rayhanuddin2019
   last_updated_on: 2021-06-19 18:15:30.000000000 Z
@@ -120,7 +128,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17581/default_ce23f9fa63028502fe46082904fea3786d97bed3.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/rayhanuddin2019/mangocube-svg-icons/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: rayhanuddin2019
   last_updated_on: 2021-06-19 18:15:30.000000000 Z
@@ -134,7 +142,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18065/image.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/rayhanuddin2019/mangocube-svg-icons/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: rayhanuddin2019
   last_updated_on: 2021-06-20 17:51:51.000000000 Z
@@ -148,7 +156,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16078/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/rayhanuddin2019/mangocube-svg-icons/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: rayhanuddin2019
   last_updated_on: 2021-06-19 18:15:30.000000000 Z
